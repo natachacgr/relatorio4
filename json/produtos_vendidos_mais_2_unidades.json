@@ -1,0 +1,10 @@
+[
+    {
+        "_id": "Produto1",
+        "quantidade": 10
+    },
+    {
+        "_id": "Produto2",
+        "quantidade": 5
+    }
+]
